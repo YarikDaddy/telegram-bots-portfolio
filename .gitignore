@@ -5,3 +5,12 @@ __pycache__/
 *.pyc
 *.json
 KWORK_OFFER.txt
+RESPONSE_TEMPLATE.txt
+cover.png
+make_cover.py
+
+# внутренние документы — НЕ публиковать в репозиторий
+ГАЙД.md
+рассылка-барбершопы.md
+салоны-письма-питер.md
+profile/
